@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sky Dash</string>
+    <string name="btn_heightScore">High Score</string>
+    <string name="btn_close_game">Close</string>
+    <string name="txt_match_score">0</string>
+    <string name="txt_heighist_score">Best : 0</string>
+    <string name="txt_game_over">Game Over</string>
+    <string name="txt_replay">Touch Screen to Continues</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="txt_last_score">Last Score: 0</string>
+    <string name="btn_back">Back</string>
+</resources>
